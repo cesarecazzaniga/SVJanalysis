@@ -213,6 +213,7 @@ class Jets():
                 "tau4": "tau4",
                 "chHEF": "chHEF",
                 "neHEF": "neHEF",
+                "jetId": "jetId",
             }
 
         else:
